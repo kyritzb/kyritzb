@@ -5,7 +5,7 @@ I'm currently cofounding [Gypsy](https://www.gypsy.city/), where I serve as CTO.
 I am currently the sole developer and work on:
 
 - Frontend (React)
-- Backend (Node.js, Python, C#)
+- Backend (Node.js)
 - Smart contracts (Solidity)
 - Tokenomics
 - Devops (Azure)
