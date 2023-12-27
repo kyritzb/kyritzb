@@ -9,5 +9,6 @@ I am currently the sole developer and work on:
 - Smart contracts (Solidity)
 - Tokenomics
 - Devops (Azure)
-- Security 
+- Security (Encryption)
+- Ai
 
