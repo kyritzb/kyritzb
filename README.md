@@ -10,5 +10,5 @@ I am currently the sole developer and work on:
 - Tokenomics
 - Devops (Azure)
 - Security (Encryption)
-- Ai
+- Agentic Ai
 
