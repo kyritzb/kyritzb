@@ -8,7 +8,5 @@ I work on:
 - Backend (Node.js / Python)
 - Smart contracts (Solidity)
 - Tokenomics
-- Devops (Azure)
-- Security (Encryption)
 - Agentic Ai
 
