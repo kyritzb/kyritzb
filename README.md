@@ -5,7 +5,7 @@ I'm currently cofounding [Jori](https://www.jori.health/), where I serve as CTO.
 I work on:
 
 - Frontend (Next.js / React)
-- Backend (Node.js)
+- Backend (Node.js / Python)
 - Smart contracts (Solidity)
 - Tokenomics
 - Devops (Azure)
